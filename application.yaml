@@ -16,3 +16,6 @@ feign:
         connectionTimeout: 5000
         readTimeout: 3000
         loggerLevel: full      
+okta:
+  oauth2:
+    issuer: https://dev-18709465.okta.com/oauth2/default
